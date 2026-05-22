@@ -104,26 +104,6 @@ http://localhost:8501
 
 ---
 
-## Application Screenshots
-
-### Home Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Sensor Input Interface
-
-![Input Screen](screenshots/input.png)
-
-### Normal Machine Prediction
-
-![Normal Prediction](screenshots/normal_prediction.png)
-
-### Failure Prediction Alert
-
-![Failure Alert](screenshots/failure_alert.png)
-
----
-
 ##  Workflow
 
 1. User enters sensor values.
