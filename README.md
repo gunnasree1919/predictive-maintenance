@@ -18,7 +18,7 @@ to predict whether a machine is operating normally or is likely to fail.
 
 ---
 
-## 🚀 Features
+## Features
 
 Machine Failure Prediction
 
