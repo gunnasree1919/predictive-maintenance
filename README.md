@@ -4,7 +4,7 @@ A machine learning-based predictive maintenance system that analyzes sensor data
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Predictive Maintenance helps industries reduce downtime, maintenance costs, and unexpected equipment failures by using machine learning to identify potential faults before they occur.
 
@@ -20,17 +20,17 @@ to predict whether a machine is operating normally or is likely to fail.
 
 ## 🚀 Features
 
-✅ Machine Failure Prediction
+Machine Failure Prediction
 
-✅ Interactive Streamlit Dashboard
+Interactive Streamlit Dashboard
 
-✅ Real-Time Sensor Input Analysis
+Real-Time Sensor Input Analysis
 
-✅ Pre-trained Machine Learning Model
+Pre-trained Machine Learning Model
 
-✅ User-Friendly Interface
+User-Friendly Interface
 
-✅ Instant Prediction Results
+Instant Prediction Results
 
 ---
 
@@ -45,7 +45,7 @@ to predict whether a machine is operating normally or is likely to fail.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Predictive-Maintenance/
@@ -60,7 +60,7 @@ Predictive-Maintenance/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The model is trained using industrial sensor data containing machine operational parameters such as:
 
@@ -73,7 +73,7 @@ These features are standardized and used for machine failure prediction.
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone Repository
 
@@ -90,7 +90,7 @@ pip install streamlit numpy scikit-learn joblib
 
 ---
 
-## ▶️ Run Application
+##  Run Application
 
 ```bash
 streamlit run app.py
@@ -104,7 +104,7 @@ http://localhost:8501
 
 ---
 
-## 🖥️ Application Screenshots
+## Application Screenshots
 
 ### Home Dashboard
 
@@ -124,7 +124,7 @@ http://localhost:8501
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. User enters sensor values.
 2. Sensor data is processed.
@@ -132,12 +132,12 @@ http://localhost:8501
 4. Prediction is generated.
 5. Dashboard displays:
 
-   - Normal Operation ✅
-   - Failure Alert ⚠️
+   - Normal Operation 
+   - Failure Alert 
 
 ---
 
-## 📈 Prediction Output
+##  Prediction Output
 
 ### Normal Condition
 
@@ -153,7 +153,7 @@ ALERT: Machine is likely to FAIL soon!
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 - Real-time IoT sensor integration
 - Cloud deployment
@@ -164,7 +164,7 @@ ALERT: Machine is likely to FAIL soon!
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Y. Gunna Sree**
 
