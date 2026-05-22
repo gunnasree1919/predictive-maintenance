@@ -148,7 +148,7 @@ ALERT: Machine is likely to FAIL soon!
 
 **Y. Gunna Sree**
 
-B.Tech – Artificial Intelligence & Machine Learning
+B.Tech – CSE
 
 SRM University AP
 
